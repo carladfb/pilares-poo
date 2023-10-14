@@ -1,2 +1,11 @@
 # Pilares da Programação Orientada a Objeto
-Estudos DIO sobre Programação Orientada a Objeto, onde é trabalhado os conceitos de encapsulamento, herança, abstração, polimorfismo e interface.
+Estudos DIO sobre Programação Orientada a Objeto, com o auxilio do instrutor Gleyson Sampaio
+
+https://github.com/glysns
+
+## Assuntos
+- Encapsulamento
+- Herança
+- Abstração
+- Polimorfismo
+- Interface.
