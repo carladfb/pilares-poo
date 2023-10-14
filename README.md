@@ -1,7 +1,5 @@
 # Pilares da Programação Orientada a Objeto
-Estudos DIO sobre Programação Orientada a Objeto, com o auxilio do instrutor Gleyson Sampaio
-
-https://github.com/glysns
+Estudos DIO sobre Programação Orientada a Objeto.
 
 ## Assuntos
 - Encapsulamento
@@ -9,3 +7,6 @@ https://github.com/glysns
 - Abstração
 - Polimorfismo
 - Interface.
+
+### Professor
+Gleyson Sampaio - https://github.com/glysns
